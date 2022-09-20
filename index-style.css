@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+strong{
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+.main{
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+.main2{
+    color : red
+}
+
+.list{
+    color : green;
+}
